@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "122220854443",
+    "firebase_url": "https://hub-tenant3.firebaseio.com",
+    "project_id": "hub-tenant3",
+    "storage_bucket": "hub-tenant3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122220854443:android:bd6693a54220cacd4b4bee",
+        "android_client_info": {
+          "package_name": "com.example.base_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122220854443-vkbpr31ser9heg707qftjqm45dumrcql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8vRYYt3zSbrSh3jpyf85b3ELSVloHIuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122220854443-vkbpr31ser9heg707qftjqm45dumrcql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122220854443-5qm21q07cokck8dhcp2q370seoj2a8jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutter.aa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122220854443:android:9f8a61cb316e14624b4bee",
+        "android_client_info": {
+          "package_name": "edu.trenet.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122220854443-vkbpr31ser9heg707qftjqm45dumrcql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8vRYYt3zSbrSh3jpyf85b3ELSVloHIuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122220854443-vkbpr31ser9heg707qftjqm45dumrcql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122220854443-5qm21q07cokck8dhcp2q370seoj2a8jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutter.aa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122220854443:android:75b47a9902b7d7ce4b4bee",
+        "android_client_info": {
+          "package_name": "ql.edu.trenet.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122220854443-vkbpr31ser9heg707qftjqm45dumrcql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8vRYYt3zSbrSh3jpyf85b3ELSVloHIuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122220854443-vkbpr31ser9heg707qftjqm45dumrcql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122220854443-5qm21q07cokck8dhcp2q370seoj2a8jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutter.aa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
